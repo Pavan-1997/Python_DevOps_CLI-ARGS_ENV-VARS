@@ -18,3 +18,5 @@ Now when we exceute it
 ```
 python test.py 12
 ``` 
+
+We get output as `12`
