@@ -25,3 +25,9 @@ We get output as `12`
 ## Enviroment Variables
 
 These are used for passing an sensitive information (Passwords, API tokens, Certificates)
+
+In the terminal use below
+
+```
+export password="Pavan"
+```
