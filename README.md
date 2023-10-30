@@ -31,3 +31,12 @@ In the terminal use below
 ```
 export password="Pavan"
 ```
+
+To read the environment variables we first import a module `os` 
+
+```
+import os
+
+os.getenv("password")
+```
+
