@@ -40,3 +40,6 @@ import os
 print(os.getenv("password"))
 ```
 
+We get output as `Pavan`
+
+
