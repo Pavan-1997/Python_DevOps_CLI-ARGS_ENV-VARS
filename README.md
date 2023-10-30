@@ -20,3 +20,8 @@ python test.py 12
 ``` 
 
 We get output as `12`
+
+
+## Enviroment Variables
+
+
